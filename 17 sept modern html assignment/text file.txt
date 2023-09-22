@@ -1,0 +1,35 @@
+1.List 5 feature of html 5
+
+A. Semantic elements are used like nav tag footer tag header tag section tag
+
+B. Better accessibility and improve the overall accessibility of web pages.
+
+C. Multimedia support like audio and video tag is introduce 
+
+D. Form attributes are introduced Features like placeholder text, validation attributes, and new input types
+
+E. Canvas and SVG tag is introduced
+
+
+2. What are html entities and 5 commonly used html entities
+
+HTML entities are special codes or sequences of characters  used to represent reserved characters, symbols, or special characters in HTML documents. They are crucial as they enable the display of characters that could otherwise be understood by the browser as part of the HTML markup.
+1.	< less than &lt;
+2.	> greater than &gt;
+3.	& ampercend  &amp;
+4.	“ double quotation mark &quot;
+5.	  ‘ single  quotation mark &apos;
+
+
+3.  Define accessibility in the context of web development .Define why it is essential to create accessible website and how it benefits for defferent user group 
+
+Web openness is the require for websites to utilize apparatuses and advances created to help the discernment, understanding, commitment, route, and interaction of a individual with incapacities on the location. Coordination openness can appear scaring to those that are fair getting familiar with it, but it may be a crucial component of user experience. Openness ought to be built into the net advancement and plan prepare, instead of attempting to retrofit it as an idea in retrospect.
+To create accessible website is usefull for screen reader and google crawlers are easily access 
+And  for search engine optimization ,also usefull for universal web page 
+It is also usefull for disable people ,mobile user ,international users 
+
+4. List out three way which help us in inproving the accessibility of HTML
+
+A. use ARIA attributes 
+B. use semantic tags
+C. use alt text for image
